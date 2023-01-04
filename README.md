@@ -1,4 +1,4 @@
-# VRDriversEd
+# VR Driver's Ed
 
 A realistic driving test simulation in Virtual Reality, designed for student drivers to practice in a safe environment, away from dangerous road conditions.
 
